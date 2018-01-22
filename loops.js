@@ -31,3 +31,5 @@ function maybeTrue() {
 do {
   array.pop();
 } while (maybeTrue());
+return array
+}
