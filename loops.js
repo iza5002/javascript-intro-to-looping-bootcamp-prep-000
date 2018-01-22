@@ -29,5 +29,5 @@ function maybeTrue() {
 }
  
 do {
-  console.log('doo-bee-doo-bee-doo')
+  array.pop(ee-doo-bee-doo')
 } while (maybeTrue());
